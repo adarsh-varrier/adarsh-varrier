@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @adarsh-varrier
+- 👋 Hi, I’m Adarsh
 - 👀 I’m interested in Software development,Web-development,Python-coding.
 - 🌱 I’m currently learning MCA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
 
 <!---
 adarsh-varrier/adarsh-varrier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
