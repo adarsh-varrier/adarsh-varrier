@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adarsh
 - 👀 I’m interested in Software development,Web-development,Python-coding.
-- 🌱 I’m currently learning MCA
+- 🌱 I’m currently Pursuing MCA
 
 
 
